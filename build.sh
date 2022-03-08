@@ -1,6 +1,6 @@
 #!/bin/bash
 
-amazon-linux-extras install golang1.17.8
+amazon-linux-extras install golang1.16
 
 rm -rf ./bin/gcsim
 
