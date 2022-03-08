@@ -1,5 +1,5 @@
 #!/bin/bash
-
+amazon-linux-extras
 amazon-linux-extras install golang=1.17.8
 
 rm -rf ./bin/gcsim
